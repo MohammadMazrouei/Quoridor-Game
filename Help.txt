@@ -1,0 +1,40 @@
+Welcome to Quoridor!
+Quoridor is a strategic board game where the goal is to reach the opposite side of the board before your opponents. This implementation allows 2 to 4 players and offers several game modes for varied experiences.
+
+How to Play:
+
+1. Starting the Game:
+Run the compiled qouridor.cpp executable to start.
+At the prompt, select an option by entering start, leaderboard, or help.
+
+2. Selecting Players:
+Enter the number of players (2, 3, or 4) when prompted.
+Choose the type of game you wish to play (Classic, Daliz, Classic2x, Daliz2x).
+
+3. Gameplay:
+Players take turns moving their pawn one square or placing a wall to obstruct opponents.
+The goal is to be the first to reach the exact opposite side of the board from your starting position.
+
+4. Controls:
+Move: Enter the direction (up, down, left, right) to move your pawn.
+Place Wall: Specify the wall placement with coordinates (e.g., _ab12 for horizontal, |ab12 for vertical).
+
+5. Winning the Game:
+The first player to successfully navigate their pawn to the opposite side wins.
+
+6. Viewing the Leaderboard:
+At any time, enter leaderboard to view the high scores and player rankings.
+
+7. Asking for Help:
+Type help at any prompt to display this help guide again.
+
+Tips:
+Strategic Wall Placement: Use walls not just to block others but to create a path that favors your pawn.
+Plan Ahead: Anticipate your opponents' moves and plan your strategy several turns in advance.
+Keep Options Open: Try to maintain multiple paths to your goal to avoid being completely blocked.
+
+Exiting the Game:
+You can exit the game at any time by entering exit or closing the game window.
+Thank you for playing Quoridor! We hope you enjoy this strategic challenge.
+
+

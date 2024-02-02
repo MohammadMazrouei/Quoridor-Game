@@ -72,7 +72,7 @@ Remember, the objective is to reach the opposite side of the board first. Use yo
 - **Use Walls Strategically:** Instead of using walls early in the game, consider saving them for critical moments to effectively block your opponents.
 - **Adapt Your Strategy:** Keep an eye on your opponents' moves and be ready to adapt your strategy. Blocking an opponent's path might sometimes be more beneficial than advancing your own pawn.
 
-Read our [Wikipedia](https://en.wikipedia.org/wiki/Quoridor).
+For More Information Read [Wikipedia](https://en.wikipedia.org/wiki/Quoridor).
 
 
 ## Contributing

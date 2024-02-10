@@ -23,13 +23,13 @@ This repository contains the C++ implementation of the Quoridor game, a strategy
 To compile the game, use the following command in the terminal:
 
 ```bash
-g++ -o Quoridor qouridor.cpp
+g++ -o quoridor qouridor.cpp
 ```
 
 Or, if you are using `winegcc` for a Windows-like environment on Linux:
 
 ```bash
-wineg++ -o Quoridor.exe qourider.cpp
+wineg++ -o quoridor qouridor.cpp
 ```
 
 ### Running the Game
@@ -37,13 +37,13 @@ wineg++ -o Quoridor.exe qourider.cpp
 After compilation, you can start the game by running:
 
 ```bash
-./Quoridor
+./quoridor
 ```
 
 On Windows or Wine:
 
 ```bash
-wine Quoridor.exe
+wine quoridor.exe
 ```
 
 ## Gameplay
